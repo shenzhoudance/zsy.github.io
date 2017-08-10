@@ -33,6 +33,17 @@ PLS通径分析法<br>
 [如何寻合作](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/else2intern_issue2_how2source.mdown)<br>
 [如何作自我介绍](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/else2intern_issue3_how2get_cowork.mdown)<br>
 
+### 自我介绍
+
+- 姓名 张诗颖
+- 职业 大妈自怼圈兼职运营/大妈py103学员/开智部落成员/国务院发展研究中心经济数据实习生/暨南大学非应届生
+- 地理位置 北京/上海->广州(定居)
+- 个人作品列表  
+
+- 邮箱 jenniferzhangshiying@gmail.com
+- 微信 z981318360
+- 电话 15800916098
+
 20170810 create du/om/else articles
 
 
