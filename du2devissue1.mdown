@@ -1,0 +1,58 @@
+issue1:字符串到时间对象str->datetime对象
+## 0.背景
+需要将'月/日'字符串转换为unix秒数
+设想为 str->时间对象->str
+```
+#sample.csv
+活动类别,持续时间,开始时间,结束时间,备注
+Chaos,3.7,04/01,20:54,04/02,00:35,
+交通,11.6,04/01,09:18,04/01,20:54,
+用餐,0.4,04/01,08:56,04/01,09:18,
+
+```
+
+```
+#期待效果
+活动类别,持续时间,开始时间,结束时间,备注
+Chaos,3.7,mmmm,20:54,mmmm,00:35,
+交通,11.6,mmmm,09:18,mmmm,20:54,
+用餐,0.4,mmmm,08:56,mmm,09:18,
+```
+
+## 1.分析
+
+- PyMOW提供思路为datetime.datetime->str->datetime.datetime
+    + 使用datetime模块的formatting and parsing
+    + 使用strptime做datetime.datetime->str
+
+```
+today = '2017/08/03'
+format = "%a %b %d %H:%M:%S %Y"
+d = datetime.datetime.strptime(today, format)
+print(d)
+#报错ValueError: time data '2017/08/03' does not match format '%a %b %d %H:%M:%S %Y'
+
+```
+
+## 2.问题
+求问
+下一步应该
+A 查找如何将字符串format
+B 还是换一种思路, 查找时间对象的相互转换？
+
+## 3.解答
+采用方向B
+查阅python cookbook有
+
+```
+#str->datetime对象
+from datetime import datetime
+t = '2017-08-03'
+s = datetime.strptime(t, '%Y-%m-%d')
+print(s)
+print(type(s))
+>>>
+2017-08-03 00:00:00
+<class 'datetime.datetime'>
+
+```

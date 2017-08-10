@@ -1,0 +1,111 @@
+## atl4dama见闻录2: good csv可能长啥样？
+
+### 背景
+数据在不同数据库loading时, 会出现各种意外, 比如reconstituted, characters, transposed fields, disappearing NULL values.
+推荐将数据保存为在各数据库间都保持稳定的flat files格式. flat files包括:csv文件与delimited文件.csv文件为推荐款式, 原因不详.
+
+就此翻译csv较为官方文件RFC 4180中部分数据要求.
+
+### 参考资料
+
+[RFC 4180 - Common Format and MIME Type for Comma-Separated Values (CSV) Files](https://tools.ietf.org/html/rfc4180)
+
+### 翻译正文
+
+Definition of the CSV Format
+
+1. 每条record占用单独1行, 行之间用 CRLF 隔开; 参见example 1
+2. 整个csv文件最后1个record的结尾, 可以用 CRLF 表示结束, 也可以不用; 参见example 2
+3. 整个csv文件第1行可以设置header, 对应fields ; 参见example 3
+4. 每1行都必须包含 **等量** fields, 每个field内的空格也算字符, 每1行最后的field不能含有comma; 参见example 4
+5. 每1个field可以用/也可以不用 加""; 参见example 5
+6. 每1个field内, 若包含 ` CRLF, " ", ,` , 则必须加""; 参见example 6
+7. If double-quotes are used to enclose fields, then a double-quote appearing inside a field must be escaped by preceding it with another double quote(没明白啥意思); 参见example 7...
+8. 其他语法参见 [RFC 2234 - Augmented BNF for Syntax Specifications: ABNF - rfc2234.pdf](https://tools.ietf.org/pdf/rfc2234.pdf)
+    
+```
+# example 1
+
+    aaa,bbb,ccc CRLF
+    zzz,yyy,xxx CRLF
+
+# example 2
+
+    aaa,bbb,ccc CRLF
+    zzz,yyy,xxx
+
+# example 3
+
+    field_name,field_name,field_name CRLF
+    aaa,bbb,ccc CRLF
+    zzz,yyy,xxx CRLF
+
+# example 4
+
+    aaa,bbb,ccc
+
+# example 5
+
+    "aaa","bbb","ccc" CRLF
+    zzz,yyy,xxx
+
+# example 6
+
+    "aaa","b CRLF
+    bb","ccc" CRLF
+    zzz,yyy,xxx
+
+# example 7
+
+    "aaa","b""bb","ccc"
+```
+
+### 感想
+在atl4dama中需要将atimelogger2导出的csv处理为结构良好的csv. 而参照这份RCF 4180真的能够领悟到啥是结构良好的csv吗？当然不能, 实战代码请参见 [du4proto/stdin0handlog.py](https://github.com/DebugUself/du4proto/blob/atl4dama/src/stdin0handlog.py). 结构良好的csv似乎 只可意会不可言传...
+
+结构良好的csv可能长啥样？
+1. 每行field等量
+2. 去除field内多余空格
+3. csv file第1行有header
+
+2. csv format
+
+```
+除了csv format
+还有哪些其他类型的format
+它们的优点和缺点有哪些？
+
+搜索结果: 搜到得到只有 csv文件读取问题 + csv向flat file转换
+42mins
+```
+
+搜索关键词 `fixed format csv` `flat files` `pandas`
+网页应用 [CSV To Flat File Fixed Width Converter](http://www.convertcsv.com/csv-to-flat-file.htm)
+
+- [CSV comma delimited] 
+  + 其基本元素是, tabular data (numbers and text, plain text) ; 其结构为 line(data record)> fields + commas
+
+- [fixed width file format] 
+  + 其基本元素是, text; 其结构为 fixed-width characters rows and columns
+
+- [5 Magic Fixes for the Most Common CSV File Problems | ThoughtSpot](http://www.thoughtspot.com/blog/5-magic-fixes-most-common-csv-file-problems)
+  + `由于mac与linux不相容导致的incompatible line` `由于csv文件里含有 non-printable ASCII characters` 
+
+```
+良好的csv file
+有哪些要求？
+
+1.每行field等量
+2.去除field内多余空格
+3.csv file第1行有header
+4.comma之间没有多余空格
+
+```
+
+- [1：CSV vs. Delimited Flat Files: How to Choose | ThoughtSpot](http://www.thoughtspot.com/blog/csv-vs-delimited-flat-files-how-choose)
+  + 数据在不同数据库迁移时: data loading -> reconstituted, characters, transposed fields, disappearing NULL values
+  + flat files 包括:
+    * csv(推荐款式: enclosing character + the only format that will guarantee seamless data movement between systems)
+    * delimited 
+
+

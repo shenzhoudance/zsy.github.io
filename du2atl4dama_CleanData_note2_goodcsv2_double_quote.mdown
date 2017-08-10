@@ -1,0 +1,68 @@
+## 熊本🐻-> atl4dama见闻录2: good csv可能长啥样？(下)?
+
+### 背景
+倘若field里, 已包含double quote, 应该如何加escape character？
+
+### 参考资料
+
+[RFC 4180 - Common Format and MIME Type for Comma-Separated Values (CSV) Files](https://tools.ietf.org/html/rfc4180)
+
+[Escaping in CSV Formatted Files | Pivotal Greenplum Database Docs](https://gpdb.docs.pivotal.io/4360/admin_guide/load/topics/g-escaping-in-csv-formatted-files.html)
+
+### 案例
+
+- 例1
+
+If double-quotes are used to enclose fields, then a double-quote appearing inside a field must be escaped by preceding it with another double quote.  For example:
+
+```
+# RFC 4180
+
+    "aaa","b""bb","ccc"     # RFC 4180 赞同这种格式
+    "aaa","b""""bb","ccc"   # Greenplum  赞同这种格式
+
+```
+
+- 例2
+
+load the following three fields:
+
+Free trip to A,B
+5.89
+Special rate "1.79"
+
+delimiter character is , (comma), 
+escape character is " (double quote). 
+
+The formatted data:
+
+```
+# Pivotal Greenplum Database Docs 
+
+"Free trip to A,B","5.89","Special rate ""1.79"""
+
+```
+
+### 问题
+
+- 为什么`aaa,b""bb,ccc` 不被formart为, `"aaa","b""""bb","ccc"`
+- 两者在实际loading里有区别吗？
+
+### 资料靠谱度
+
+- RFC 
+  + RFC始於1969年，由史蒂芬·克羅克用來記錄有關ARPANET開發的非正式文件，最終演變為用來記錄網際網路規範、協定、過程等的標準檔案。
+  + RFC檔案只有新增，不會有取消或中途停止發行的情形。但是對於同一主題而言，新的RFC檔案可以聲明取代舊的RFC檔案。
+  + [RFC - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/RFC)
+
+- Pivotal Greenplum
+  + 产品: The Greenplum Database (基于Python, ORCA)
+  + 仓库: [greenplum-db/gpdb: Greenplum Database](https://github.com/greenplum-db/gpdb)
+  + 相关: MPP SSD Hadoop
+
+### 总结
+本文展示出针对某一情景下, csv format的两种截然不同的指导意见. 可知技术细节, 争论颇多...
+
+虽然RFC 4180就field内含double quote给出指导, 但那也是2005年的事了.商业公司也会提供csv format的实战意见...
+
+面对技术细节, 对比权威vs最新, 是保证参考资料靠谱度的一个可以探索的维度...

@@ -1,0 +1,85 @@
+## 熊本🐻-> atl4dama见闻录4:自学, 病在哪里？
+
+### 前言
+hi
+在自学吗？
+学得怎样？
+有作品吗？
+有拿得出手的作品吗？
+如果没有
+请本周怼刊现场调查: 自学, 病在哪里？
+
+### 自学故事
+
+这是一个女主角好学上进却多次无果的悲情故事
+
+缩写对照:
+stdin0 = [stdin0handlog](https://github.com/DebugUself/du4proto/blob/atl4dama/src/stdin0handlog.py)
+python资料 = Python标准库 + Python Tutorial +Python Cookbook
+boss = zq
+女主角 = 🐻熊本
+
+#### 背景
+
+1. 项目要求完成产品三项功能:数据清洗/数据分析/数据可视化
+2. 女主角自行学习 数据清洗 功能
+3. boss已为项目小组项目写完数据清洗脚本
+4. 女主角试图通过研究boss脚本, 理解脚本并优化脚本
+
+#### 目标
+
+0. 学习路径: 读懂boss脚本 -> 对于脚本主要函数对照python资料查找延伸代码示例 -> 优化boss脚本
+1. 理解怎么做fixed format as .csv
+2. 对比python书籍中, stdin0中出现的4个主要内置函数的用法
+3. 优化stdin0
+
+#### 操作与成果列表
+
+|  | 目标 | 操作 | 成果 |
+| --- | --- | --- | --- |
+| 1 | 理解怎么做fixed format as .csv | 看脚本 | [note1](https://github.com/DebugUself/du4proto/blob/atl4dama/try/s04e51/notes/atl4dama_CleanData_note3_1_fixed_format_csv%253Asplit%252Bextend.py) [note2](https://github.com/DebugUself/du4proto/blob/atl4dama/try/s04e51/notes/atl4dama_CleanData_note3_2_fixed_format_csv%253Ajoin%252Bconcenate.py) |
+| 2 | .strip()典型用法 | 看python资料 | [basic1_strip](https://github.com/DebugUself/du4proto/blob/atl4dama/try/s04e51/notes/atl4dama_CleanData_note3_3_fixed_format_csv_basic_1strip.py) |
+| 3 | .strip()与生成器搭配用法 | 看python资料 | basic1_generator |
+| 4 | 对比.strip()与re.sub()在替换字符串时 | 看python资料 | basic1_resub |
+| 5 | .join()典型用法 | 看python资料 | basic2_join |
+| 6 | .split()典型用法 | 看python资料 | basic3_split |
+| 7 | 对比.extend()与.append()典型用法 | 看python资料 | basic4_extappend |
+| 8 | 回顾本周操作 | 写故事投稿DUW | [article1](https://github.com/DebugUself/du4proto/blob/atl4dama/try/s04e51/notes/atl4dama_CleanData_note4_selfstudy_problem.mdown) |
+
+### 自学之病
+
+**自学缺少**
+
+- 靠谱资料
+- 时间/精力
+- 热情/感情
+
+**自学更缺少**
+
+- deadline
+- 团队反馈
+- 结项标志
+- 成果质控
+
+完全依赖 开源资料/时间精力/热情累积, 好似**手工作坊式学习**, 孱弱无力
+完全依赖 团队/deadline/项目管理, 好似**流水线式学习**, 僵硬死板
+
+女主目前处于
+**手工作坊式学习**
+
+### 自学测试
+
+故事为隐喻
+模式却通用
+请回顾一下你在怼圈的这几月
+然后回答
+你觉得`自学病在哪里？`
+A. 没有组队
+B. 没有向Boss求助
+C. 从下往上刷知识点的方法根本就是错的
+D. 其他
+
+你可在本issue下直接回复
+或通过以下两种渠道回复
+- slack: @zhangshiying 
+- gmail: jenniferzhangshiying@gmail.com
