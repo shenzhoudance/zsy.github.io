@@ -32,6 +32,7 @@ PLS通径分析法<br>
 [如何找实习](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/else2intern_issue1_how2intern.mdown)<br>
 [如何寻合作](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/else2intern_issue2_how2source.mdown)<br>
 [如何作自我介绍](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/else2intern_issue3_how2get_cowork.mdown)<br>
+[访问录:阿明](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job4_ming.mdown)
 
 ### 自我介绍
 
