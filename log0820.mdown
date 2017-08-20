@@ -17,19 +17,19 @@
         * 汪汪
         * 张思敏
     + 工具
-        * atimelogger  
+        * atimelogger 
     + 放松
         * 健身
         * 有嘻哈
         * 雅思
 - 清点作品
-    + lmc->note收敛 
+    + wmc->[wmc01](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/lmc01.mdown)
     + 自怼圈
         * atl4dama小队会议->issue收敛 [6d[atl4dama]时间账单效能分析](https://github.com/DebugUself/du4proto/issues/200)
     + 熟人咨询
-        * 王老师->blog收敛
-        * 何老师->blog收敛
-        * 张思敏->blog收敛
+        * 王老师->blog收敛[job6_jun_wangpeng](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job6_jun_wangpeng.mdown)
+        * 何老师->blog收敛[job7_david_he](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job7_david_he.mdown)
+        * 张思敏->blog收敛[job8_med_zhangsimin](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job8_med_zhangsimin.mdown)
     + 工具
         * atimelogger->blog收敛
         * mask->blog收敛
@@ -42,3 +42,9 @@
 - 修改作品
     
 ### 作品索引
+
++ [wmc01](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/lmc01.mdown)
++ [6d[atl4dama]时间账单效能分析](https://github.com/DebugUself/du4proto/issues/200)
++ 王老师->blog收敛[job6_jun_wangpeng](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job6_jun_wangpeng.mdown)
++ 何老师->blog收敛[job7_david_he](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job7_david_he.mdown)
++ 张思敏->blog收敛[job8_med_zhangsimin](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job8_med_zhangsimin.mdown)
