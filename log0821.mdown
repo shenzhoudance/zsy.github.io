@@ -9,17 +9,24 @@
     + 研究岗:DRC/深圳研究发展中心
     + 公开技能:简历/国考/行政/雅思/自怼圈
 - 清点行动
-    [x] 医生岗:wmc->作品收敛
-    [x] 香港销售岗:余鸣->blog收敛 
-    [x] 研究岗:DRC/深圳研究发展中心->blog收敛 
-    [x] 行政岗位:简历/国考/行政->blog收敛 
-    [x] 兴趣技能:雅思/自怼圈/互联网
+    + 医生岗:wmc->作品收敛
+    + 香港销售岗:余鸣->blog收敛 
+    + 研究岗:DRC/深圳研究发展中心->blog收敛 
+    + 行政岗位:简历/国考/行政->blog收敛 
+    + 兴趣技能:雅思/自怼圈/互联网->雅思作文
 - 决策
     + NO 财务/咨询
     + NO 公开公司
-    + 博士
+    + 医牌
+    + 博士 
     + 行政
     + 互联网 
     
 ### 作品索引
 
++ 熟人 [job9_yuming_sales](https://github.com/zhangshiyinrunwithcc/+ blob/master/job9_yuming_sales.mdown)
++ 熟人 [job10_SZdrc](https://github.com/zhangshiyinrunwithcc/+ blob/master/job10_SZdrc.mdown)
++ 公开 [job11_university_adm](https://github.com/zhangshiyinrunwithcc/+ blob/master/job11_university_adm.mdown)
++ 公开 [job12shenzhen](https://github.com/zhangshiyinrunwithcc/+ blob/master/job12shenzhen.mdown)
++ 公开 [job13_internet](https://github.com/zhangshiyinrunwithcc/+ blob/master/job13_internet.mdown)
++ 医牌 [wmclog0821](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/wmclog0821.mdown)

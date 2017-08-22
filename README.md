@@ -33,6 +33,15 @@ PLS通径分析法<br>
 [如何寻合作](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/else2intern_issue2_how2source.mdown)<br>
 [如何作自我介绍](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/else2intern_issue3_how2get_cowork.mdown)<br>
 [访问录:阿明](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job4_ming.mdown)
+[访问录:余鸣](https://github.com/zhangshiyinrunwithcc/+ blob/master/job9_yuming_sales.mdown)<br>
+[访问录:深圳研究发展中心](https://github.com/zhangshiyinrunwithcc/+ blob/master/job10_SZdrc.mdown)<br>
+[访问录:高校辅导员](https://github.com/zhangshiyinrunwithcc/+ blob/master/job11_university_adm.mdown)<br>
+[访问录:深圳行政岗](https://github.com/zhangshiyinrunwithcc/+ blob/master/job12shenzhen.mdown)<br>
+[访问录:深圳互联网岗](https://github.com/zhangshiyinrunwithcc/+ blob/master/job13_internet.mdown)<br>
+[访问录:王鹏老师](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job6_jun_wangpeng.mdown)<br>
+[访问录:何老师](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job7_david_he.mdown)<br>
+[访问录:张思敏](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job8_med_zhangsimin.mdown)<br>
+
 
 ### 自我介绍
 
