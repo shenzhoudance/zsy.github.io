@@ -41,6 +41,9 @@ PLS通径分析法<br>
 [访问录:王鹏老师](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job6_jun_wangpeng.mdown)<br>
 [访问录:何老师](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job7_david_he.mdown)<br>
 [访问录:张思敏](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job8_med_zhangsimin.mdown)<br>
+[访问录:公务员](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job15civilservant.mdown)<br>
+[访问录:深圳DRC](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job12shenzhen.mdown)<br>
+[访问录:00](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job1400.mdown)<br>
 
 
 ### 自我介绍

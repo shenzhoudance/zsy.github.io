@@ -5,15 +5,26 @@
 - 决策
     + NO 财务/咨询
     + NO 公开公司
-    + 医牌 + 互联网
-    + 博士 + 行政
+    + 医牌 + 公务员
+    + 博士 + 行政 + 互联网
 - 投入时间
-    + 医牌 + 互联网
-    + 博士 + 行政
+    + 医牌 + 公务员
+    + 博士 + 行政 + 互联网
 - 清点行动
-    + 医牌 + 互联网
-        * 00:苛捐杂税之人们真的需要决策吗？ 
-    + 博士 + 行政
+    + 医牌 + 公务员
+        * 曹优优 
+        * GI/CARDIO/ENDO summary 
+    + 博士 + 行政 + 互联网
+        * 深圳课题
+        * 00:苛捐杂税之人们真的需要决策吗？
+
         
 ### 作品索引
 
+[访问录:公务员](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job15civilservant.mdown)
+[访问录:深圳DRC](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job12shenzhen.mdown)
+[访问录:00](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job1400.mdown)
+[wmc06cardio](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/wmc06cardio_summary_IHD_and_HT.mdown)
+[wmc07endo](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/wmc07endo_summary.mdown)
+[wmc08gi](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/wmc08gi_summary.mdown)
+[wmclog0822](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/wmclog0822.mdown)
