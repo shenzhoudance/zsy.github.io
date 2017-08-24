@@ -20,6 +20,7 @@
 [阳老有限理性2](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/om22_lots_of_heart_dannet.md)<br>
 [阳老有限理性3](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/om2article_rationality_yangzhiping_4.mdown)<br>
 [阳老有限理性4](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/om2article_rationality_yangzhiping_5.mdown)<br>
+[认知:理性选择来自高风险尝试](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/cb1989e2de11277029a8cba0d8c05cb860673841/fri_keith_prospect_theory.mdown)<br>
 
 ### DRC
 
@@ -33,7 +34,7 @@ PLS通径分析法<br>
 [如何寻合作](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/else2intern_issue2_how2source.mdown)<br>
 [如何作自我介绍](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/else2intern_issue3_how2get_cowork.mdown)<br>
 [访问录:阿明](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job4_ming.mdown)
-[访问录:余鸣](https://github.com/zhangshiyinrunwithcc/+ blob/master/job9_yuming_sales.mdown)<br>
+[访问录:销售岗+市场](https://github.com/zhangshiyinrunwithcc/+ blob/master/job9_yuming_sales.mdown)<br>
 [访问录:深圳研究发展中心](https://github.com/zhangshiyinrunwithcc/+ blob/master/job10_SZdrc.mdown)<br>
 [访问录:高校辅导员](https://github.com/zhangshiyinrunwithcc/+ blob/master/job11_university_adm.mdown)<br>
 [访问录:深圳行政岗](https://github.com/zhangshiyinrunwithcc/+ blob/master/job12shenzhen.mdown)<br>
@@ -41,7 +42,7 @@ PLS通径分析法<br>
 [访问录:王鹏老师](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job6_jun_wangpeng.mdown)<br>
 [访问录:何老师](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job7_david_he.mdown)<br>
 [访问录:张思敏](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job8_med_zhangsimin.mdown)<br>
-[访问录:公务员](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job15civilservant.mdown)<br>
+[访问录:公务员+杨俊峰](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job15civilservant.mdown)<br>
 [访问录:深圳DRC](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job12shenzhen.mdown)<br>
 [访问录:00](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job1400.mdown)<br>
 

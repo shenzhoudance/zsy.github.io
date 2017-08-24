@@ -16,3 +16,12 @@
     
 ### 作品索引
 
+[认知:理性选择来自高风险尝试](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/cb1989e2de11277029a8cba0d8c05cb860673841/fri_keith_prospect_theory.mdown)
+[JOB:深圳drc](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/0f8e9fa6e5dffe436d7483ca088887b0630dfe14/job10_drc.mdown)
+[JOB:公务员](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/0f8e9fa6e5dffe436d7483ca088887b0630dfe14/job15civilservant.mdown)
+[JOB:销售+市场](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/0f8e9fa6e5dffe436d7483ca088887b0630dfe14/job9_sales.mdown)
+[wmc08gi_summary](https://github.com/zhangshiyinrunwithcc/wmc/blob/22a88d3db4e3a71bd02a9d91ce5e209d7d34059d/wmc08gi_summary.mdown)
+[wmc09_thysis](https://github.com/zhangshiyinrunwithcc/wmc/blob/22a88d3db4e3a71bd02a9d91ce5e209d7d34059d/wmc09_thysis.mdown)
+[wmclog0823](https://github.com/zhangshiyinrunwithcc/wmc/blob/22a88d3db4e3a71bd02a9d91ce5e209d7d34059d/wmclog0823.mdown)
+[README.md](https://github.com/zhangshiyinrunwithcc/wmc/blob/22a88d3db4e3a71bd02a9d91ce5e209d7d34059d/README.md)
+

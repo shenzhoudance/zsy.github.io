@@ -1,0 +1,20 @@
+# 调试可代入pandas的数据
+
+### 背景
+atl4dama分为3阶段
+- 数据清洗
+- 数据分析
+- 可视化
+
+在数据清洗解决已完成
+- 输入:[raw/zoomquiet/1302--report at atl4dama](https://github.com/DebugUself/du4proto/tree/atl4dama/raw/zoomquiet/1302--report)
+- 脚本:[src/stdin*脚本](https://github.com/DebugUself/du4proto/tree/atl4dama/src)
+- 输出:已将yy hh 转换为unix秒数
+
+然而数据清洗并未结束
+还需要完成以下
+- acttype归一化
+- 其他...
+
+### 进展
+- 参考 [zq4cleanning.ipynb](https://github.com/DebugUself/du4proto/blob/atl4dama/try/zq4cleanning.ipynb)
