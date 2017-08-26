@@ -3,10 +3,14 @@
 ### 索引
 
 - 作品
-    + 42*2 深圳DRC 
-    + 42 公务员/银行/高校
-    + 42*6 医牌
+    + 42*2 深圳DRC -> 深圳健康促进会招聘[协会招聘 - 深圳健康产业网](http://www.szbj.org/zhaop_li/68.aspx)
+    + 42 公务员/银行/高校 -> 一手职位表:[人事信息-深圳市卫计委](http://www.szhfpc.gov.cn/xxgk/rsrm/)
+    + 42*6 医牌 -> liver+meta 找题/对题/专题
     + 4*10 访问
-    
+    + 42 * 3 怼圈
+  
 ### 作品索引
-
+ - 百度云 喵喵题库
+ - kw  [wmc10_hepatitis](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/wmc10_hepatitis.mdown)
+ - 找题 [exam2livernjaundice](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/exam2livernjaundice.mdown)
+ - 专题 topic1
