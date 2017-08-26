@@ -2,16 +2,12 @@
 
 ### 索引
 
-- 作品
-    + 20 * 8 医牌
-        * 20 * 2 喵喵题库 =>论坛 cuhk mailing list + clinical
-        * kw->找题->讲题->专题 
-    + [x] 20 * 2 深圳drc
-        * 20 * 1.5 卫计委=>健康医生
-        * 行业报告=>
-    + [x] * 2 深圳医院/执业医师
-        * 规培=>NO 3+3
-    + [x] 20 * 1 其他
-        * 互联网网申
+- 时间
+    + [x] 42 * 4 医牌
+    + [x] 42 深圳卫计委
+    + [x] 42 深圳执业医师
+    + [x] 42 其他->互联网网申
         
 ### 作品索引
+- [job16_shenzhen_weijiwei](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/job16_shenzhen_weijiwei.mdown)
+- [wmclog0825](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/wmclog0825.mdown)
