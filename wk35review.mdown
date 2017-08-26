@@ -1,5 +1,37 @@
 # 第35周回顾
 
+### 本周行为模式
+- 港深工作
+    + mon 4位熟人 => YES行政+NO审计
+    + tue 4位熟人 => YES 深圳发展研究中心下属健康研究院+NO公开公司
+    + wed 
+        * 曹优优 => YES 买房:公务员>银行>公司
+        * 00 => YES 决策负荷大
+        * 陶总 => YES 医疗咨询
+        * 杨峰峰 => YES 去年职位表+本科限制
+    + thu
+        * 深圳卫计委  YES
+    + fri
+        * 深圳医生执照 NO
+        * 深圳互联网企业 YES
+    + sat weekreview
+        * 内地行医暂时不予考虑=GIVE UP
+        * 审计/咨询/行研因为出差过多不予考虑=GIVE UP
+        * 深圳市医药研究员=YES
+        * 深圳高校行政=YES
+        * 深圳互联网=YES
+        * 深圳市公务员=YES
+    + 下周推进
+        * 深圳医药研究员
+        * 医药行研作品:博文
+- wmc
+    + mon 模式:notes找kw
+    + tue 模式:刷notes
+    + wed 模式:刷notes
+    + thu 模式:找题+专题
+    + fri 模式:找题
+    + sat 模式:weekreview
+
 ### 本周索引
 - blog.io
     + [log0820](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/log0820.mdown)
@@ -16,4 +48,3 @@
     + [wmclog0825](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/wmclog0825.mdown)
 
 
-### 本周行为模式
