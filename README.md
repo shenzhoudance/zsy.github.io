@@ -57,8 +57,8 @@ PLS通径分析法<br>
 - 微信 z981318360
 - 电话 15800916098
 
-20170826 modify README
-20170817 add article job/MING
-20170810 create du/om/else articles
+20170826 modify README<br>
+20170817 add article job/MING<br>
+20170810 create du/om/else articles<br>
 
 

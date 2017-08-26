@@ -1,0 +1,19 @@
+# 第35周回顾
+
+### 本周索引
+- blog.io
+    + [log0820](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/log0820.mdown)
+    + [log0821](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/log0821.mdown)
+    + [log0822](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/log0822.mdown)
+    + [log0823](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/log0823.mdown)
+    + [log0824](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/log0824.mdown)
+    + [log0825](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/log0825.mdown)
+- wmc
+    + [wmclog0821](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/wmclog0821.mdown)
+    + [wmclog0822](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/wmclog0822.mdown)
+    + [wmclog0823](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/wmclog0823.mdown)
+    + [wmclog0824](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/wmclog0824.mdown)
+    + [wmclog0825](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/wmclog0825.mdown)
+
+
+### 本周行为模式
