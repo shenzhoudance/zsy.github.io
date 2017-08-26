@@ -1,7 +1,19 @@
 # 如何总结一周行为？
 
-### How to Work with Everyone 
-~ [How to Work with Everyone](https://leap.ai/blog/2017/07/26/how_to_work_with_everyone?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=ios)
+```
+本周个人管理重新启动周总结
+总结湾区日报近日2篇推文要点
+撰写周总结清单
+```
+
+### 如何做1周总结？
+- [ ] 写目标
+- [ ] 写渠道
+- [ ] 记录别人看重什么
+- [ ] 记录自己有什么擅长的可以与别人trade off？
+- [ ] 记录自己有什么擅长的不可以与别人trade off？
+
+### How to Work with Everyone节选 
 - 加强
     + 别人看重的且你擅长的
     + 别人虽然不看重但你很擅长 
@@ -12,7 +24,6 @@
     + **当此类事件发生时,我总是...** 
 
 ### 5 laws every developer should know
-~ [5 laws every developer should know](http://blog.ippon.tech/5-laws-every-developer-should-know/amp)
 - 多渠道定理
     + 参考murphy's law
     + 工程类项目一定会犯错
@@ -35,21 +46,28 @@
     + 要保持清醒：每次选择都需要对比付出与回报
     + 计算这些付出与回报
 
-### 如何做1周总结？
-- [ ] 写目标
-- [ ] 写场景
-- [ ] 记录别人看重什么
-- [ ] 记录自己擅长什么
-- [ ] 总结自己擅长的是否与别人看重的匹配
-
 ### 我的20w本周总结
-- 目标
-    + 寻找下半年第2份实习/工作 
-- 场景
-    + 跨城市,没房贷
-    + 3类可用专业技能
-- 行为模式
-    + 熟人:与13位目标城市朋友同学了解情况
-    + 一手:收集目标岗位一手项目/招聘信息
-    + 考试:每日4小时整块时间准备目标证书考试
-    + 记录:以上3方面行为/成果/思考均留有笔记,每日push到个人仓库 
+- [x] 写目标
+    * 梳理求职渠道
+- [x] 写渠道
+    * 研究岗/行政岗/医生岗/销售岗
+- [x] 记录别人看重什么
+    * 985/211 本硕专业
+    * 实习经历/技能证书
+    * 推荐人
+    * 申请速度
+- [x] 记录自己有什么擅长的可以与别人trade off？
+    * 211小本
+    * 学术经历/英语证书
+    * 有靠谱推荐人
+    * 掌握申请一手信息
+- [x] 记录自己有什么擅长的不可以与别人trade off？
+    * 开源项目atl4dama
+    * Github+Git个人管理
+    * python清洗csv数据
+    * 认知科学文集
+
+湾区日报推文
+
+- [How to Work with Everyone](https://leap.ai/blog/2017/07/26/how_to_work_with_everyone?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=ios)
+- [5 laws every developer should know](http://blog.ippon.tech/5-laws-every-developer-should-know/amp)
