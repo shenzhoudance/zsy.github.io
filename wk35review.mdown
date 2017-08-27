@@ -32,6 +32,28 @@
     + fri 模式:找题
     + sat 模式:weekreview
 
+### 我的本周总结
+- [x] 写目标
+    * 梳理求职渠道
+- [x] 写渠道
+    * 研究岗/行政岗/医生岗/销售岗
+- [x] 记录别人看重什么
+    * 985/211 本硕专业
+    * 实习经历/技能证书
+    * 推荐人
+    * 申请速度
+- [x] 记录自己有什么擅长的可以与别人trade off？
+    * 211小本
+    * 学术经历/英语证书
+    * 有靠谱推荐人
+    * 掌握申请一手信息
+- [x] 记录自己有什么擅长的不可以与别人trade off？
+    * 开源项目atl4dama
+    * Github+Git个人管理
+    * python清洗csv数据
+    * 认知科学文集
+
+
 ### 本周索引
 - blog.io
     + [log0820](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/log0820.mdown)

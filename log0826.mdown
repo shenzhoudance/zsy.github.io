@@ -1,0 +1,20 @@
+# 日记0826
+
+### 索引
+
+- 时间
+    + [ ] 42 * 2 atl4dama会议
+    + [x] 42 * 1 梳理blog.io
+    + [x] 42 * 1 梳理wmc
+    + [x] 42 * 1 梳理35周总结
+    + [x] 42 * 1 DUW 如何写一周总结[如何写一周总结? ](https://github.com/DebugUself/du4proto/commit/38a6ce36a246472a769cbd7142afd9c012610ca8)
+    + [x] 42 * 1 DUW 爱情是什么[爱情是什么？](https://github.com/DebugUself/du4proto/commit/4907cbb9de736e8120bb70f302d9483f4e7a9264)
+    + [x] 42 * 1 DUW atl4dama进展 [时间账单效能小队duwk20进展 ](https://github.com/DebugUself/du4proto/commit/e81aa9b9f9f29d20fd42af1f1df3617b2ec34601)
+    + [ ] 42 * 1 张思敏 + 三重心智图
+    + [ ] 42 * 1 汪汪精英论
+
+### 作品列表
+
+- [如何写一周总结? ](https://github.com/DebugUself/du4proto/commit/38a6ce36a246472a769cbd7142afd9c012610ca8)
+- [爱情是什么？](https://github.com/DebugUself/du4proto/commit/4907cbb9de736e8120bb70f302d9483f4e7a9264)
+- [时间账单效能小队duwk20进展 ](https://github.com/DebugUself/du4proto/commit/e81aa9b9f9f29d20fd42af1f1df3617b2ec34601)

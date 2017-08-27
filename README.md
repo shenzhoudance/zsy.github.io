@@ -42,7 +42,7 @@ PLS通径分析法<br>
 熵值法<br>
 
 ### 自由生活
-
+[如何总结一周行为？](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/esle4how2wkreview.mdown)<br>
 
 ### 自我介绍
 
