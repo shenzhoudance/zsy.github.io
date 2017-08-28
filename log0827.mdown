@@ -3,9 +3,19 @@
 ### 索引
 
 - 时间
-    + [ ] 20 梳理
-    + [ ] 20 wcm梳理
-    + [ ] 42 * 2 wmc讲题
-    + [ ] 42 * 1 asthma做题
-    + [ ] 42 * 2 pulmonary embolism做题
-    + [ ] 42 * 2 七夕节礼物
+    + [ ] 20 * 1 [梳理]梳理
+    + [ ] 42 * 1 [梳理]wcm梳理
+    + [ ] 42 * 2 [题目]wmc讲题
+    + [ ] 42 * 1 [题目]asthma做题
+    + [ ] 42 * 2 [题目]pulmonary embolism做题
+    + [ ] 42 * 1 [家庭]七夕节礼物
+    + [ ] 42 * 1 [认知]贝叶斯定理
+
+### 作品列表
+- [题目] * 5
+    + [glossary](https://github.com/zhangshiyinrunwithcc/wmc/blob/b39d0b475d7ef048b384db8aa62dfc5b361483d8/glossary)
+    + [wmc13_asthma_pulmonary_embolism](https://github.com/zhangshiyinrunwithcc/wmc/blob/b39d0b475d7ef048b384db8aa62dfc5b361483d8/wmc13_asthma_pulmonary_embolism.mdown)
+- [梳理] * 2
+    + [wmclog0827](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/wmclog0827.mdown)
+    + [log0826](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/log0826.mdown)
+    + [log0827](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/log0827.mdown)
