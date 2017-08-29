@@ -3,20 +3,18 @@
 ### 索引
 
 - 时间
-    + [ ] 24 * 1 [梳理]log梳理
-    + [ ] 24 * 1 [梳理]wcm梳理
-    + [ ] 42 * 2 [I T]hexo init
-    + [ ] 42 * 1 [专题]AIN
-    + [ ] 42 * 1 [专题]addision+cushing
-    + [ ] 42 * 1 [专题]骨科
-    + [ ] 42 * 1 [认知]贝叶斯定理
-    + [ ] 42 * 1 [专题]
-    + [ ] 42 * 1 [家庭]香港公关方案
+    + [x] 24 * 1 [梳理]log梳理
+    + [x] 42 * 2 [I T]hexo init
+    + [x] 42 * 1 [专题]AIN
+    + [x] 42 * 1 [专题]addision+cushing
+    + [x] 42 * 1 [专题]骨科
+    + [x] 42 * 1 [认知]贝叶斯定理
 
 ### 作品列表
 - [I T] * 2
-- [题目] * 4   
-- [梳理] * 2
-- [家庭] * 1
-- [认知] * 1
-    
+- [题目] * 4
+    + [exam4Addison's disease_cushing](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/exam4Addison's%20disease_cushing.mdown)
+    + [wmc14_renal](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/wmc14_renal.mdown)   
+- [梳理] * 1
+    + [logindex](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/logindex.mdown)
+    + [log0828](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/log0828)

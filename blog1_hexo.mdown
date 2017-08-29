@@ -1,0 +1,175 @@
+# Hexo Init
+
+- [Documentation | Hexo](https://hexo.io/docs/index.html)
+- [Setup | Hexo](https://hexo.io/docs/setup.html)
+- [从零开始新建Hexo博客 | 浚宇的博客](http://blog.junyu.io/posts/0002-start-blog-with-hexo.html)
+- [Git的Hexo博客搭建和运维实例讲解-初级 | 浚宇的博客](http://blog.junyu.io/posts/0012-hexo-git-apply-primary.html)
+
+## 1.安装Hexo(42mins)
+### 1.1Xcode 
+> go to Preferences -> Download -> Command Line Tools -> Install to install command line tools.
+
+1. go to preference,结果是,没有download选项
+2. update xcode,结果是,
+3. 尝试终端安装
+> Or via terminal (from the release docs): The Command Line Developer Tools package can be installed on demand using "xcode-select --install” and the installed tools will be automatically updated using Software Update. OS X 10.9 is required for this feature. For earlier versions, continue to use the in-app download in Xcode
+
+- [osx - Xcode 4.4 and later install Command Line Tools - Stack Overflow](https://stackoverflow.com/questions/9329243/xcode-4-4-and-later-install-command-line-tools)
+
+注:先暂停此步
+
+### 1.2Install Node.js
+由于网络受限制,规避终端直接安装,采用土鳖的installer安装
+- [Node.js Installer](https://nodejs.org/en/)
+
+### 1.3Install Hexo
+- 自查清单
+    + [ ] xcode command line tool
+    + [x] git
+    + [x] node.js
+- 命令行
+
+`$ npm install -g hexo-cli`
+
+- 返回
+
+```
+/usr/local/lib
+└─┬ hexo-cli@1.0.3
+```
+
+## 2.配置hexo(42mins)
+
+### 2.1hexo init
+
+- 命令行
+
+```
+$ cd <folder>
+$ hexo init <folder>
+```
+
+- 返回
+
+```
+INFO  Start blogging with Hexo!
+```
+
+- 命令行
+
+```
+$ npm install
+```
+
+- 返回
+
+```
+npm WARN enoent ENOENT: no such file or directory, open '/Users/zsy/Documents/hexo/package.json'# Error NO ENTry (or Error NO ENTity)
+npm WARN hexo No description
+npm WARN hexo No repository field.
+npm WARN hexo No README data
+npm WARN hexo No license field.
+```
+
+注意:机器提示,缺少一堆东西:description/repository field/README data/license field
+
+- 命令行 + 返回
+
+```
+zsydeAir:hexo zsy$ pwd
+/Users/zsy/documents/hexo
+zsydeAir:hexo zsy$ ls
+hexo      hexo01_reference.mdown  node_modules
+zsydeAir:hexo zsy$ ls -ahl
+total 24
+drwxr-xr-x   6 zsy  staff   204B Aug 28 10:29 .
+drwx------+ 12 zsy  staff   408B Aug 28 09:20 ..
+-rw-r--r--@  1 zsy  staff   6.0K Aug 28 09:14 .DS_Store
+drwxr-xr-x   9 zsy  staff   306B Aug 28 10:23 hexo
+-rw-r--r--   1 zsy  staff   1.9K Aug 28 10:34 hexo01_reference.mdown
+drwxr-xr-x   2 zsy  staff    68B Aug 28 10:29 node_modules
+```
+
+注意:先尝试git init,同时添加远程库
+
+- 命令行+返回
+
+```
+zsydeAir:hexo zsy$ git init
+Initialized empty Git repository in /Users/zsy/Documents/hexo/.git/
+zsydeAir:hexo zsy$ git remote add origin git@github.com:zhangshiyinrunwithcc/zsy.hexo.io.git
+zsydeAir:hexo zsy$ git status
+On branch master
+
+Initial commit
+```
+
+- 命令行+返回
+
+```
+zsydeAir:hexo zsy$ npm install
+npm WARN enoent ENOENT: no such file or directory, open '/Users/zsy/Documents/hexo/package.json'
+npm WARN hexo No description
+npm WARN hexo No repository field.
+npm WARN hexo No README data
+npm WARN hexo No license field.
+```
+
+注意:看来不是git init的问题,好吧,切掉重来=>查看专业教程,看看哪一步漏掉了
+
+- 参考: [Help!Can't install hexo ! And run hexo server failure! ](https://github.com/npm/npm/issues/11659)
+- 命令行+返回
+
+```
+$ sudo npm install --unsafe-perm --verbose -g hexo
+
+npm verb exit [ 0, true ]
+npm info ok
+```
+
+注意:project folder符合规约样子吗╮(￣▽￣)╭->()？
+
+```
+zsydeAir:hexo zsy$ ls
+hexo      hexo01_reference.mdown  node_modules
+zsydeAir:hexo zsy$ ls -ahl
+total 24
+drwxr-xr-x   7 zsy  staff   238B Aug 28 10:38 .
+drwx------+ 12 zsy  staff   408B Aug 28 09:20 ..
+-rw-r--r--@  1 zsy  staff   6.0K Aug 28 09:14 .DS_Store
+drwxr-xr-x   9 zsy  staff   306B Aug 28 10:51 .git
+drwxr-xr-x   9 zsy  staff   306B Aug 28 10:23 hexo
+-rw-r--r--   1 zsy  staff   3.4K Aug 28 11:00 hexo01_reference.mdown
+drwxr-xr-x   2 zsy  staff    68B Aug 28 10:52 node_modules
+```
+
+注意:但依然没有出现_config.yml等正常的project folder的样子
+注意:晕倒,原来我把目录命名为hexo,导致hexo/hexo/_config.yml
+
+```
+# 把根目录名字改为hexo->zsy.hexo
+zsydeAir:zsy.hexo zsy$ ls
+hexo      hexo01_reference.mdown  node_modules
+zsydeAir:zsy.hexo zsy$ cd hexo
+zsydeAir:hexo zsy$ ls
+_config.yml package.json  source
+node_modules  scaffolds themes
+```
+
+## 2 Hexo Configuration
+### 2.1 配置_config.yml
+
+注意:为什么要用hexo搭建博客而不是使用gitbook？
+
+- 目标
+    + 存放专题成果
+    + 面向潜在用户推送专题成果
+    + 低成本:时间/金钱
+- 决策
+    + hexo与gitbook都可以存放成果
+    + 推送用微信渠道,与hexo/gitbook无关
+    + gitbook成本低很多
+- 结论
+    + 改用gitbook方案 
+
+

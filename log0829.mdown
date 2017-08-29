@@ -1,0 +1,15 @@
+# 日记0829
+
+### 索引
+
+- 时间
+    + [x] 42 * 0.5 [梳理]log梳理
+    + [x] 42 * 1.5 [I T]filefinder + gitbook
+    + [x] 42 * 1 [专题]ortho
+    + [x] 42 * 1 [专题]addision+cushing
+    + [x] 42 * 1 [讨论]addision+cushing
+    + [x] 42 * 1 [认知]atl4dama
+
+### 作品列表
+- [I T] * 1.5
+- [题目] * 4
