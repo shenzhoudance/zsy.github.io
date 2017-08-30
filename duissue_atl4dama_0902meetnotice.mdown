@@ -1,0 +1,21 @@
+3d[TASK]时间账单效能小队0902会议
+
+例行周六会
+
+## 时间地点
+- 时间：2017-09-02(周六)  北京时间08:20AM 新西兰时间12:20PM / 时长 45 分钟
+- 方式： Zoom 线上会议
+- 会议 ID： 9039343080
+- 密码： debuguself
+
+## 资源
+
+- 百度云盘录音链接:  链接:  密码: 
+- 小密圈录音链接:  
+
+## 议程
+- 🐻@zhangshiyinrunwithcc atl4dama分支文档管理进展
+    + 询问队员是否有必要在doc目录下提交s06e51atldama_plan？ 
+- 🐦@liguanghe 汇报进展
+- 🐑@mxclover 汇报进展
+- 🐻@zhangshiyinrunwithcc 发布会议纪要+收敛至README/S06追踪issue

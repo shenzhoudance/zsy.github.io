@@ -3,13 +3,28 @@
 ### 索引
 
 - 时间
-    + [x] 42 * 0.5 [梳理]log梳理
-    + [x] 42 * 1.5 [I T]filefinder + gitbook
-    + [x] 42 * 1 [专题]ortho
-    + [x] 42 * 1 [专题]addision+cushing
-    + [x] 42 * 1 [讨论]addision+cushing
-    + [x] 42 * 1 [认知]atl4dama
+    + [x] 42 * 1 [梳理]log梳理
+    + [x] 42 * 2.5 [I T]filefinder + gitbook + s06e51plan
+    + [x] 42 * 8 [医学]cushing+sensory+mnd+palsy
+    + [x] 42 * 2 [写作/吐槽]
 
 ### 作品列表
-- [I T] * 1.5
-- [题目] * 4
+
+- [梳理] * 1
+- [I T] * 2.5
+- [医学] * 8
+- [写作] * 2
+
+- [梳理] * 1
+    + [wmclog0829](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/wmclog0829.mdown)
+    + [log0829](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/log0829.mdown)
+- [I T] * 2.5
+    + [blog1_hexo](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/c505a7ed503db409a4c635ee67194d7d2127e28a/blog1_hexo.mdown) 
+    + [du4tool2filefinder](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/c505a7ed503db409a4c635ee67194d7d2127e28a/du4tool2filefinder.mdown)
+- [医学] * 8
+    - [exam4Addison's disease_cushing](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/exam4Addison's%20disease_cushing.mdown)
+    - [wmc15_sensory_deficit](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/wmc15_sensory_deficit.mdown)
+    - [wmc20_motor_neuron_disease_Pseudobulbar_palsy](https://github.com/zhangshiyinrunwithcc/wmc/blob/master/wmc20_motor_neuron_disease_Pseudobulbar_palsy.mdown) 
+- [写作] * 2
+    + [王小花看病记1:死亡清单 - zhangshiying | 豆瓣阅读](https://read.douban.com/reader/column/7370914/chapter/38453489/?type=publish-single)
+    + [贝叶斯定理与say no](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/c505a7ed503db409a4c635ee67194d7d2127e28a/else4bayes.mdown)

@@ -1,0 +1,28 @@
+# 目标
+调整atl4dama分支文档结构
+利于队员收敛/追踪s06e51的atl4dama成果
+
+# 进展
+- [ ] 调整README与doc结构,结构如下
+    + du_s06e51_atl4dama_plan存放如下索引链接
+        * 小队会议录音/纪要/决议
+        * 小队每周进展纪要
+    + 28d[ANN]S06E51 自怼小组任务追踪 Issue
+        * (没想好存放啥,这里类似杂货铺,目的是收敛最新进展/讨论) 
+        
+```
+README
+├── du_s06e51_atl4dama_plan
+├── 28d[ANN]S06E51 自怼小组任务追踪 Issue
+
+./
+├── doc
+│   └── du_s06e51_atl4dama_liguanghe_plan
+│   └── du_s06e51_atl4dama_mxclover_plan
+│   └── du_s06e51_atl4dama_zhangshiying_plan
+│   └── s05e51README(s06e51之前的README) 
+└── try
+
+```
+
+- [ ] 确认队员在doc目录下,提交各自的du_s06e51_atl4dama_id_plan
