@@ -3,27 +3,33 @@
 ### 索引
 
 - 时间
-    + [x] 42 * 1 [梳理]log梳理
-    + [x] 42 * 1 [I T]
-    + [ ] 42 * 2 [医疗课题]
-    + [x] 42 * 6 [医学]
-    + [x] 42 * 2 [写作/吐槽]
+    + 42 * 2 [梳理]
+    + 42 * 1 [I T]
+    + 42 * 1 [医疗课题]
+    + 42 * 7 [医学]
+    + 42 * 2 [写作/吐槽]
+    + 42 * 1 [drc]
+    + 42 * 1 [fit]
 
 ### 作品列表
-- [x] 42 * 1 [梳理]
-    + [ ] 1
-    + [ ] 2 
-- [x] 42 * 1 [I T]
-    + [ ] README
-    + [ ] 开会issue
+- 42 * 2 [梳理]
+    + [log0829](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/a6f8137e449f9e91d2c72803c13a8e63c33a3d06/log0829.mdown)
+    + [log0830](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/a6f8137e449f9e91d2c72803c13a8e63c33a3d06/log0830.mdown)
+- 42 * 1 [I T]
+    + [duissue_atl4dama_0902meetnotice](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/a6f8137e449f9e91d2c72803c13a8e63c33a3d06/duissue_atl4dama_0902meetnotice.mdown)
+    + [duissue_atldama_s06e51_docstructure](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/a6f8137e449f9e91d2c72803c13a8e63c33a3d06/duissue_atldama_s06e51_docstructure.mdown)
+    + [dus06e51_zhangshiying_plan](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/a6f8137e449f9e91d2c72803c13a8e63c33a3d06/dus06e51_zhangshiying_plan.mdown)
+    + [README](https://github.com/DebugUself/du4proto/blob/74813edc8b0708b38f1767628aaa46d009ceb1cd/README.md)
 - [ ] 42 * 1 [深圳卫计委]
-    + [ ] 1 深圳/上海/北京卫生计划委员会
-- [x] 42 * 6 [医学]
-    + [ ] 1 medulla解剖
-    + [ ] 2 spastic
-    + [ ] 3 喵喵题库内外15/14/13
-    + [ ] 4 喵喵题库心脏
-- [x] 42 * 2 [写作/吐槽]
-    + [ ] 贝叶斯
-    + [ ] 王小花
-
+    + [shenzhen_commi01_sz+bj+sh_websitenotice](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/a6f8137e449f9e91d2c72803c13a8e63c33a3d06/shenzhen_commi01_sz%2Bbj%2Bsh_websiten)
+- 42 * 7 [医学]
+    + 42 * 1 [讨论]
+    + 42 * 5 [找题]
+        + [x] [exam2015_cardiology](https://github.com/zhangshiyinrunwithcc/wmc/blob/04d1b8c143c81b19e2d53b0860bf7903248ae757/exam2015_cardiology.mdown)
+        + [x] [exam2015wmc_cuhku_neurology_id](https://github.com/zhangshiyinrunwithcc/wmc/blob/04d1b8c143c81b19e2d53b0860bf7903248ae757/exam2015wmc_cuhku_neurology_id.mdown)
+        + [x] [paperlog](https://github.com/zhangshiyinrunwithcc/wmc/blob/04d1b8c143c81b19e2d53b0860bf7903248ae757/paperlog.mdown)
+    + 42 * 1 [梳理]
+        + [x] [wmclog0829](https://github.com/zhangshiyinrunwithcc/wmc/blob/04d1b8c143c81b19e2d53b0860bf7903248ae757/wmclog0829.mdown)
+- 42 * 1 [写作/吐槽]
+    + 学霸喵
+    + 盛唐诗
