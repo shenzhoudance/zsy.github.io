@@ -1,0 +1,22 @@
+# 日记0831Thu
+   
+### 索引
+
+- 时间
+    + 7.5 [医学]
+        + 42 * 2.5 [整理] 
+        + 42 * 5   [做题]
+            * [exam_wmc201609paper2_ans](https://github.com/zhangshiyinrunwithcc/wmc/blob/470438f19daca3f9de9280a85c24cc77538d1dcd/exam_wmc201609paper2_ans.mdown)
+            * [glossary](https://github.com/zhangshiyinrunwithcc/wmc/blob/470438f19daca3f9de9280a85c24cc77538d1dcd/glossary)    
+    + 2 [写作/吐槽]
+        * [story4wangxiaohua2_happy2sad](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/462d32b7823d294bc7aef274d930d3f4c6f74310/story4wangxiaohua2_happy2sad.mdown)
+    + 1 [梳理]
+        * [log0830](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/462d32b7823d294bc7aef274d930d3f4c6f74310/log0830.mdown) 
+    + 0 [fit]
+    + 0 [I T]
+    + 0 [医疗课题]
+    + 1 [drc]
+    + 3 [大张伟]
+
+
+
