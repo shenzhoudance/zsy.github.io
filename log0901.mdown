@@ -3,16 +3,16 @@
 ### 索引
 
 - 时间
-    + 7 [医学]
-        * 2 [整理] 
-        * 5 [做题]
-    + 2 [写作/吐槽]
-    + 1 [梳理]
+    + 5 [医学][exam_wmc201609paper2_ans](https://github.com/zhangshiyinrunwithcc/wmc/blob/31de84b6393c4be2d1a5b65cf8f740923d8ee68e/exam_wmc201609paper2_ans.mdown) [glossary](https://github.com/zhangshiyinrunwithcc/wmc/blob/31de84b6393c4be2d1a5b65cf8f740923d8ee68e/glossary) [wmclog0831](https://github.com/zhangshiyinrunwithcc/wmc/blob/31de84b6393c4be2d1a5b65cf8f740923d8ee68e/wmclog0831.mdown)
+    + 1 [写作/吐槽] [story4wangxiaohua3_thebigman](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/444228ba29acffb0d4dedc505a57422276c51efc/story4wangxiaohua3_thebigman.mdown)
+    + 1 [梳理] [log0831](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/444228ba29acffb0d4dedc505a57422276c51efc/log0831.mdown)
     + 0 [fit]
     + 0 [I T]
-    + 1 [医疗课题]
-    + 1 [drc]
-    + 2 [大张伟]
+    + 0 [医疗课题]
+    + 7
+    + 3 [drc]
+    + 6 [大张伟]
+    + 9
 
 
 
