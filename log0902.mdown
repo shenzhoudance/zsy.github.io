@@ -3,23 +3,15 @@
 ### 索引
 
 - 时间
-    + 5 [医学]
-        + [glossary](https://github.com/zhangshiyinrunwithcc/wmc/blob/31de84b6393c4be2d1a5b65cf8f740923d8ee68e/glossary) 
-        + [wmclog0902]
-    + 1 [写作/吐槽] 
-        + 王小花
-    + 1 [梳理] 
-        + log
-        + wmclog 
-    + 0 [fit]
+    + 8 [医学]
+        * 1 [梳理] 
+        * 7 [题目]
+        * [0903work](https://github.com/zhangshiyinrunwithcc/wmc/commit/78fd377c65a17b66d11d76bfbc443f8ecf84a7fb)    
     + 2 [I T]
-        + atl4dama0902会议纪要 
-        + [x] 如何自由找工作DUW
-    + 0 [医疗课题]
-    + 9
-    + 0 [drc]
-    + 2 [大张伟]
-    + 2
+        * [duw_how2findjob_freely](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/38a382c271292e6ae3b36eaa2adc714f71730346/duw_how2findjob_freely.mdown)
+    + 0.5 [梳理]
+        * log0902 
+    + 3 [大张伟]
 
 
 
