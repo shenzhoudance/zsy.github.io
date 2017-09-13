@@ -1,0 +1,8 @@
+# health4kw
+
+> 应用DEA方法评测中国各地区健康生产效率 张宁 胡鞍钢 郑京海 2006
+
+- 关键词
+    + health production
+    + 数据包络分析 data envelopment analysis,DEA
+    + efficiency

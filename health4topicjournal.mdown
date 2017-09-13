@@ -1,0 +1,20 @@
+#health4topicjournal
+
+
+> 目标:牛刊列表
+> 目标:牛人列表
+> 目标:关键词列表
+
+### 牛刊
+- Journal of Health Politics, Policy and Law
+    + impact factor 1.373 
+
+
+### 牛人
+- kenneth arrow
+    + Uncertainty and the Welfare Economics of Medical Care (American Economic Review, 1963),7930,2010年发表在Journal of Health Politics, Policy and Law
+- Fuchs, Victor R.
+    + Health economics
+    + 很多书 
+
+### 关键词
