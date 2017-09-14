@@ -1,6 +1,8 @@
 #health4books_healtheconomics
 
 ### kenneth arrow
+- Selected Readings in Economic Theory from Econometrica (Selected readings from Econometrica)
+
 ### Victor R. Fuchs
 - Who Shall Live?: Health, Economics, and Social Choice
 - the future of health policy

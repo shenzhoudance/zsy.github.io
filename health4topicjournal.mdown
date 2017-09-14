@@ -8,7 +8,11 @@
 ### 牛刊
 - Journal of Health Politics, Policy and Law
     + impact factor 1.373 
-
+- American Economic Review
+- Econometrica
+- Journal of Political Economy
+- Quarterly Journal of Economics
+- Review of Economic Studies
 
 ### 牛人
 - kenneth arrow
