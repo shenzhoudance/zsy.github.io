@@ -1,3 +1,40 @@
+# logtemplate 2017年09月25日10:15:08
+
+### 源数据
+- what does violent mean?
+    + to survive 
+    + 如果有钱了就会放弃的东西
+    + [北京drc][深圳工作][医学经济]
+- what does support mean?
+    + to get support，主要是家庭和书籍
+    + 为了融入社会+完成社会责任
+    + [线下各种角色:家庭、潜在同事、开智]
+- what does fit mean?
+    + to be happy
+    + 如果不用担心钱、社会责任，就会去做这些让自己很爽的事
+    + 昂贵的兴趣爱好
+    + [独自+线上:一个人活动+自怼圈]
+
+### 配置
+- 1周饼图pic变化
+    + atimelogger图片+朋友圈
+        * 先保存1周看一下效果
+        * 不好保存->ipynb/html
+
+### 39wtemplate
+# log0925
+- Total
+    + Cost 
+    + NonCost
+- violent
+    + 0
+- support
+    + 0
+- fit
+    + 0
+   
+----
+ 
 # log_template
 
 ### 指标
