@@ -156,8 +156,7 @@ _config.yml package.json  source
 node_modules  scaffolds themes
 ```
 
-## 2 Hexo Configuration
-### 2.1 配置_config.yml
+> 动摇第1次
 
 注意:为什么要用hexo搭建博客而不是使用gitbook？
 
@@ -172,4 +171,23 @@ node_modules  scaffolds themes
 - 结论
     + 改用gitbook方案 
 
+20171006
+- 1个博客可以收藏多个种类作品
+- 归一化，是博客的重要功能。
 
+
+## 2 Hexo Configuration
+### 2.1 配置_config.yml
+- title:
+- author: 
+- url:
+- root:
+
+deploy:
+  type: git
+  repo: https://github.com/zhangshiyinrunwithcc/zsy.hexo.io.git
+  branch: gh-pages
+
+### 2.2 配置github
+- Repo内新建gh-pages分支
+- 本地zsy.hexo文件夹与远程repo的gh-pages分支建立联系

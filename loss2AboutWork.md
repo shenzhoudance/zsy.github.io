@@ -1,4 +1,4 @@
-# loss2AboutWork
+# loss2AboutWork如何在工作中保护学习的机会
 
 > Ted 巴里舒瓦茨 被毁掉的工作观
 
