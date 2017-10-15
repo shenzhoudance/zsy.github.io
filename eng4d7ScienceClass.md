@@ -1,0 +1,5 @@
+#eng4d7ScienceClass
+- The most exicting science class I have ever had is about for career plan for startups in my first year in college.
+- The speach was gived by a successful project manager who graduated from my university ten years ago.
+- He said the most important things for frehmen like us is to identify and focus on our priorities.He requested us to list the single most important thing that we need to be doing. And if we dont't have an answer to this, we should drop everything and figure out what the answer is. Not having an answer is quite dangerous, cause it guarantees that we'll be working on unimportant things and waste our precious time.
+- He pointed out that there will always be an endless stream of things to do. It'll be tempting to do whatever is easiest, or most fun, or most familiar. But this is a trap that will screw us in the long run. It's better to make 5-10% progress on the most import thing than to finish lots of tasks that don't actually move the needle.

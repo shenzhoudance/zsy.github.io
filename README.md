@@ -21,9 +21,10 @@
 [如何总结一周行为？v0.1](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/esle4how2wkreview.mdown)<br>
 [如何总结一周行为？v0.2]()<br>
 
-### 每周总结
+### 每周关键词
 [第35周总结](https://githb.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/wk35review.mdown)<br>
-[第40周总结]()<br>
+[第40周Suffocate]()<br>
+[第41周Luxury]()<br>
 
 ### 工作谈
 [工作谈01:如何在工作中保护学习的机会](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/28850c5076611522291d87980eaf02a66d4c5c9c/loss2AboutWork.md)
@@ -45,6 +46,7 @@
 [自怼血案1](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/du2bc_Set_up_Git_Generating_SSHkey.md)<br>
 [自怼血案2](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/du2bc_file.write()utf8.md)<br>
 [自怼血案3](https://github.com/zhangshiyinrunwithcc/zsy.github.io/blob/master/du2bc_word_ST3.mdown)<br>
+[s07e51plan]
 
 ### 开智部落
 
