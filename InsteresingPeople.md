@@ -8,3 +8,6 @@
   + documentary film maker
   + [Love and Sexuality within the disabled community | Indiegogo](https://www.indiegogo.com/projects/love-and-sexuality-within-the-disabled-community/x/17471053#/comments)
   + [HeartChild by Ben Duffy — Kickstarter](https://www.kickstarter.com/projects/42311681/heartchild/comments) 
+
+- Alex Wong
+  + [HappyMoose: Beautiful photo print products you'll love.](https://happymoose.nz/)
